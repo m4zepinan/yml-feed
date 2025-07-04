@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <yml_catalog date="2025-07-04T12:00:00+03:00">
   <shop>
     <name>Mariella Beauty</name>
     <company>Салон красоты Mariella Beauty</company>
     <url>https://mariella-beauty-krd.ru</url>
+
+    <categories>
+      <category id="1">Услуги</category>
+    </categories>
+
     <offers>
       <offer id="pmk-001" type="service" available="true">
         <url>https://mariella-beauty-krd.ru/permanentnyj-makiyazh-krasnodar</url>
@@ -12,6 +17,66 @@
         <categoryId>1</categoryId>
         <name>Перманентный макияж губ</name>
         <description>Стойкий перманентный макияж губ в Краснодаре. Естественный оттенок, чёткий контур и до 2 лет результата.</description>
+        <region>Краснодар</region>
+      </offer>
+
+      <offer id="haircut-001" type="service" available="true">
+        <url>https://mariella-beauty-krd.ru/strizhki-volosy-krasnodar</url>
+        <price>1000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Стрижки</name>
+        <description>Женские, мужские и детские стрижки в салоне Mariella Beauty в Краснодаре.</description>
+        <region>Краснодар</region>
+      </offer>
+
+      <offer id="coloring-002" type="service" available="true">
+        <url>https://mariella-beauty-krd.ru/okrashivanie-volos-krasnodar</url>
+        <price>2500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Окрашивание волос</name>
+        <description>Профессиональное окрашивание волос: однотонное, мелирование, балаяж, airtouch и др.</description>
+        <region>Краснодар</region>
+      </offer>
+
+      <offer id="keratin-003" type="service" available="true">
+        <url>https://mariella-beauty-krd.ru/keratin-botox-krasnodar</url>
+        <price>3500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Кератин/ботокс для волос</name>
+        <description>Восстановление структуры волос с помощью кератинового выпрямления и ботокса.</description>
+        <region>Краснодар</region>
+      </offer>
+
+      <offer id="styling-004" type="service" available="true">
+        <url>https://mariella-beauty-krd.ru/ukladka-vypryamlenie-krasnodar</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Укладка и выпрямление</name>
+        <description>Праздничная, повседневная укладка и выпрямление волос в Краснодаре.</description>
+        <region>Краснодар</region>
+      </offer>
+
+      <offer id="depilation-005" type="service" available="true">
+        <url>https://mariella-beauty-krd.ru/depilyaciya-shugaring-krasnodar</url>
+        <price>900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Депиляция и шугаринг</name>
+        <description>Услуги депиляции воском и шугарингом в комфортных условиях.</description>
+        <region>Краснодар</region>
+      </offer>
+
+      <offer id="nails-006" type="service" available="true">
+        <url>https://mariella-beauty-krd.ru/manikyur-pedikyur-krasnodar</url>
+        <price>1200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Маникюр и педикюр</name>
+        <description>Маникюр, педикюр, покрытие гель-лаком, укрепление и дизайн ногтей.</description>
         <region>Краснодар</region>
       </offer>
     </offers>
