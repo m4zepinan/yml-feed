@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-07-04T12:00:00+03:00">
+  <shop>
+    <name>Mariella Beauty</name>
+    <company>Салон красоты Mariella Beauty</company>
+    <url>https://mariella-beauty-krd.ru</url>
+    <offers>
+      <offer id="pmk-001" type="service" available="true">
+        <url>https://mariella-beauty-krd.ru/permanentnyj-makiyazh-krasnodar</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Перманентный макияж губ</name>
+        <description>Стойкий перманентный макияж губ в Краснодаре. Естественный оттенок, чёткий контур и до 2 лет результата.</description>
+        <region>Краснодар</region>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
